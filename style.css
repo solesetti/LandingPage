@@ -1,0 +1,46 @@
+*{
+  
+    padding:0;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 7px;
+    border-color: blueviolet;
+   
+}
+
+.Main{
+    color: white;
+    width: 50%;
+    margin: auto;
+ background-color: rgb(41, 3, 75);
+ height: 30em;
+ 
+}
+.b1{
+    text-align: center;
+    border-radius: 50px;
+    margin: 8px;
+    background-color: rgb(213, 249, 213);
+ 
+
+}
+.b2{
+    text-align: center;
+    border-radius: 50px;
+    background-color: rgb(244, 238, 238);
+    margin: 8px;
+  
+}
+h6{
+    color: gray;
+
+}
+#toprow{
+    color: darkgrey;
+    font-size: 12px;
+    margin: 0em;
+    
+}
+img{
+    width: 150px; 
+}
