@@ -1,0 +1,45 @@
+
+       
+/* .main{
+    border-color: black;
+    padding: 163px;
+    background-color: black;
+    color: white;
+} */
+/* <main class="Main" style="background-color: #2e2e50; 
+text-align: center;color: white;margin: auto;
+box-sizing: border-box; width: 60%;height: 30em;"  > */
+
+h6{
+    color: gray;
+}
+.row{
+    display: flex;
+    
+    /* flex-wrap: wrap; */
+    margin-right: 60px;
+    margin-left: 60px;
+}
+#toprow{
+    color: darkgrey;
+    font-size: 12px;
+    margin: 0em;
+    justify-content: flex-end;
+    
+    
+}
+.b1{
+    text-align: center;
+    border-radius: 50px;
+    margin: 8px;
+    background-color: rgb(213, 249, 213);
+ 
+
+}
+.b2{
+    text-align: center;
+    border-radius: 50px;
+    background-color: rgb(244, 238, 238);
+    margin: 8px;
+  
+}
